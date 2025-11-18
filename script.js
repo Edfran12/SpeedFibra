@@ -1,8 +1,8 @@
 
 const EMAILJS_CONFIG = {
-    serviceID: 'service_v8abypr',      // Substitua pelo seu Service ID
-    templateID: 'template_u45vt9h',    // Substitua pelo seu Template ID
-    publicKey: 'CEP96huntQFGFQemg'       // Substitua pela sua Public Key
+    serviceID: 'service_v8abypr',     
+    templateID: 'template_u45vt9h',    
+    publicKey: 'CEP96huntQFGFQemg'       
 };
 // ============================================
 

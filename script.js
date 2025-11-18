@@ -1,8 +1,4 @@
-// ============================================
-// CONFIGURAÇÃO DO EMAILJS
-// ============================================
-// IMPORTANTE: Configure suas credenciais do EmailJS abaixo
-// Para obter essas credenciais, siga as instruções em INSTRUCOES_EMAILJS.md
+
 const EMAILJS_CONFIG = {
     serviceID: 'service_v8abypr',      // Substitua pelo seu Service ID
     templateID: 'template_u45vt9h',    // Substitua pelo seu Template ID
